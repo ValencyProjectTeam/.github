@@ -1,9 +1,7 @@
 ## Valency Project Team
 
 ### 我们是干啥的
-* 我们主要开发 **.NET** 还有 **Windows应用程序**；
-* 我们还会使用 **.NET** 琢磨一些奇怪的东西；
-* 我们也希望能开发出一些有意思的小工具；
+一些有意思的小工具
 
 ### 如何联系我们
 * Email：[higashitaniyume@gmail.com](mailto:higashitaniyume@gmail.com)
