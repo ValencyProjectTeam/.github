@@ -2,6 +2,11 @@
 
 ### 我们是干啥的
 一些有意思的小工具
+VSC插件开发
+
+### 相关链接
+* Open VSX Registry : [Valency](https://open-vsx.org/namespace/Valency)
+* Vistual Studio Markplace : [Valency](https://marketplace.visualstudio.com/publishers/Valency)
 
 ### 如何联系我们
 * Email：[higashitaniyume@gmail.com](mailto:higashitaniyume@gmail.com)
